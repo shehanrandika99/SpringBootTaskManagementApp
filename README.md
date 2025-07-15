@@ -17,7 +17,6 @@
 - 📝 **Task status tracking (PENDING, IN_PROGRESS, COMPLETED)**
 - 🔎 **Search & filter by name/status/user**
 - 🔄 **Activate/Deactivate users**
-- ⏰ **Scheduled job to log long-pending tasks (>24 hours)**
 - ⚠️ **Field validations (email, phone, required fields)**
 - 🐛 **Exception handling with meaningful errors**
 - 🗂 **Pagination support (planned)**
