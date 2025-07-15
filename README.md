@@ -32,7 +32,7 @@
 - 🐬 MySQL / H2 (configurable)
 - 🐘 Lombok
 - 🐳 Maven
-- 🔍 Springdoc OpenAPI (Swagger) UI
+- 🔍 Postment Douments
 
 ---
 
