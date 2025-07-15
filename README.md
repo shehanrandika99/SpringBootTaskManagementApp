@@ -49,7 +49,9 @@
 - 🔄 Includes examples for creating users, tasks, updating statuses, and filtering.
 - 🚀 Makes it easy to test your local server on `http://localhost:8080`.
 
-
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21uY2JkajJwMjZtbm5yMHR2azFxZ21mbmxlbDBxb3Q2ZTRjZnR0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="600" alt="Demo GIF">
+</p>
 
 ```bash
 git clone https://github.com/your-username/task-management-system.git
